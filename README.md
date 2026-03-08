@@ -15,7 +15,7 @@ This lab demonstrates a fully functional enterprise network using Packet Tracer,
 
 ## Network Topology
 
-Enterprise-Network-Lab/Enterprise_Network_Design.pkt 
+![Network Topology](diagrams/network-topology.png)
 
 
 - Core switches connect access switches and the edge router
