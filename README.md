@@ -38,7 +38,7 @@ Refer to [`docs/IP_and_VLAN_plan.md`](docs/IP_and_VLAN_plan.md) for:
 
 ## Key Configurations
 
-All device configs are included in the [`configs/`](configs/) folder:
+All device configs are included in the [`configs/`](configs/) folder: 
 
 - `core_sw1.cfg` & `core_sw2.cfg` → VLANs, SVIs, HSRP
 - `router1.cfg` → NAT, default routes, ACLs, DHCP relay
